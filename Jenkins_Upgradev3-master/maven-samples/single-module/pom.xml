@@ -174,8 +174,8 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git@github.com:dinhtung1991/master.git/maven-samples.git</connection>
-    <developerConnection>scm:git@github.com:dinhtung1991/master.git/maven-samples.git</developerConnection>
+    <connection>scm:git@github.com:dinhtung1991/master.git</connection>
+    <developerConnection>scm:git@github.com:dinhtung1991/master.git</developerConnection>
     <tag>HEAD</tag>
     <url>https://github.com/dinhtung1991/master.git/maven-samples</url>
   </scm>
